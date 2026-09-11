@@ -7,6 +7,7 @@ This creates synthetic normal data and trains a simple model.
 """
 
 import logging
+
 import numpy as np
 import pandas as pd
 
