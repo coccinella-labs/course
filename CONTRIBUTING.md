@@ -4,7 +4,7 @@ Thanks for your interest in contributing to SystemManager!
 
 ## Development Setup
 
-1. Clone the repo: `git clone https://github.com/harpertoken/course.git`
+1. Clone the repo: `git clone https://github.com/coccinella-labs/course.git`
 2. Build: `swift build`
 3. Run tests: `swift test` (add tests to Tests/ directory)
 4. Lint: `swiftlint` (install via `brew install swiftlint`)
