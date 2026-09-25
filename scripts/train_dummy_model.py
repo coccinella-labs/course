@@ -1,6 +1,5 @@
-# SPDX-License-Identifier: MIT
-
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MIT
 """
 Script to generate a dummy anomalib model for SystemManager anomaly detection.
 This creates synthetic normal data and trains a simple model.
