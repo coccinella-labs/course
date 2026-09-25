@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/Coccinella-Labs/course/main/.github/assets/thumbnail.png" alt="course" width="100%">
 </p>
 
-macos process orchestrator in swift.
-
 Swift SystemManager package (macOS 14+, Swift 6.1) for observing and controlling macOS processes, with a Python bridge via PythonKit.
 
 ## Run
